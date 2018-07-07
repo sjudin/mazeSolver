@@ -27,3 +27,4 @@ class Graph:
                 previous_y = y
 
 g = Graph('images/tiny.png')
+print('hello')
